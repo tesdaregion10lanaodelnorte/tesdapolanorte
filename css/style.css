@@ -702,7 +702,7 @@ ul {
   display: inline-block;
   padding: 12px 44px;
   border-radius: 50px;
-  background-color: #ff4800;
+  background-color: rgba(0,123,255,.5);
   font-size: 15px;
   font-family: "Rajdhani", sans-serif;
   font-weight: 500;
@@ -2374,7 +2374,7 @@ ul {
   transform: scale(1, 0);
   display: block;
   border: 0px solid transparent;
-  background-color: #ff4800;
+  background-color: #6fb0ef;
 }
 
 /* line 90, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_menu.scss */
@@ -2382,7 +2382,7 @@ ul {
   font-size: 14px;
   padding: 8px 20px !important;
   color: #fff !important;
-  background-color: #ff4800;
+  background-color: #e4ddda;
   text-transform: capitalize;
 }
 
